@@ -1,3 +1,5 @@
+![img](portfolio.gif)
+
 I am currently studying software enginnering in [Shahjalal University of Science and Technology](https://www.sust.edu/) and working as an intern in [Codelinker](https://www.codelinker.com). As an intern I am curretly exploring technologies but I love to work with Javascript. And I always believed I need to do what I love the most. I am hoping for the best, thats all for now.
 
 <br>

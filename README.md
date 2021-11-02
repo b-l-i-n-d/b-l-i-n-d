@@ -17,7 +17,7 @@ I am currently studying software enginnering in [Shahjalal University of Science
 
 ## Portfolio Page
 
-[https://b-l-i-n-d.github.io/](https://b-l-i-n-d.github.io/)
+[https://b-l-i-n-d.github.io/](https://relaxed-albattani-679240.netlify.app/)
 
 <br>
 

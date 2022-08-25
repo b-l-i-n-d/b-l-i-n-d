@@ -23,7 +23,7 @@ I am currently studying software enginnering in [Shahjalal University of Science
 
 ## Portfolio Page
 
-[https://www.ffabir.top](https://www.ffabir.top)
+[https://b-l-i-n-d.netlify.app/](https://b-l-i-n-d.netlify.app/)
 
 <br>
 

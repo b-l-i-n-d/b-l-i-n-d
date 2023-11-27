@@ -1,4 +1,4 @@
-![img](portfolio.png)
+![img](banner.png)
 
 I graduated from [Shahjalal University of Science and Technology](https://www.sust.edu/). I am currently exploring technologies but I love to work with Javascript. And I always believed I needed to do what I love the most. I am hoping for the best, that's all for now.
 
@@ -36,7 +36,6 @@ I graduated from [Shahjalal University of Science and Technology](https://www.su
 [![Mail](https://img.shields.io/badge/-gmail-%232c3e50?style=for-the-badge&logo=gmail)](mailto:fahim.faisal.abir@gmail.com)
 [![Twitter](https://img.shields.io/badge/-twitter-%232c3e50?style=for-the-badge&logo=twitter)](https://twitter.com/fahimfaisalffa)
 [![Linkedin](https://img.shields.io/badge/-linkedin-%232c3e50?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b-l-i-n-d/)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-l-i-n-d&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-l-i-n-d&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
